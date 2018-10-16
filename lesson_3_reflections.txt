@@ -42,4 +42,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+	Making changes in a seprate branch allows me to test my new change and spot
+	potential mistakes. It's more work upfront, but can save a lot of future issues.
