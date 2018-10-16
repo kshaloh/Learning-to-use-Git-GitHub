@@ -11,13 +11,30 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	It's always a good idea to review the staging area before making a commit and
+	make sure that it only contains one logical change. I should always use git status
+	before and after git add.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	I could have a branch for testing; a branch for experimenting; Also I can have different
+	application that share a common code base. Each branch would then be a different 
+	application, all connected to the master (base code) branch.
+
 How do the diagrams help you visualize the branch structure?
+
+	It will help me know where I am in a project.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	This turns the 2 branches into one and all the commits of each branch are in time
+	order in one branch.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	It's convenient that Git merges branches automatically, but will also warn if there's
+	a conflict. The conflict may take some time to resolve, but it's important to do so.
+	Merging manually is very tedious, time consuming and hard to do.
