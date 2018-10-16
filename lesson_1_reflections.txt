@@ -13,7 +13,7 @@ commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
     A software project is always a working progress. You don't want to save until you 
-    a completed version of the task you're working on. 
+    have a completed version of the task you're working on. 
     However, not autosaving your work could lead to losses. 
 
 Why do you think some version control systems, like Git, allow saving multiple
@@ -23,16 +23,17 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 How can you use the commands git log and git diff to view the history of files?
 
-    git log will list all the commits made. Then I can use git diff (commit I want) (previous commit)
+    git log will list all the commits made. Then I can use git diff (the commit I want) (previous commit)
     to see the changes made.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    I'm more like to try bold things and be brave.
+    I'm more likely to try bold things and be brave.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
     To organize all projects I've worked on.
-    Have a public profile for employers.
+    Have a public profile for employers and anyone else who would like to see my work.
     Contribute to open source projects.
+    Learn about new projects and developments.
